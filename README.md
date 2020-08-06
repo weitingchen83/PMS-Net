@@ -1,6 +1,6 @@
 # PMS-Net: Robust Haze Removal Based on Patch Map for Single Images
 
-Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo
+**Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo**
 
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 11681-11689
 
