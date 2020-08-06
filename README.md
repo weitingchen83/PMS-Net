@@ -3,7 +3,7 @@
 **Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo**
 
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 11681-11689
-
+Paper: https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html
 
 You can also refer our related works on dehazing:
 
@@ -16,7 +16,7 @@ https://ieeexplore.ieee.org/document/9094006
 Github:
 https://github.com/weitingchen83/Dehazing-PMHLD-Patch-Map-Based-Hybrid-Learning-DehazeNet-for-Single-Image-Haze-Removal-TIP-2020
 
-<br>and
+and
 
 2."JSTASR: Joint Size and Transparency-AwareSnow Removal Algorithm Based on ModifiedPartial Convolution and Veiling Effect Removal" which has been published in **ECCV 2020**.
 
