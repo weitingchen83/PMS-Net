@@ -17,7 +17,7 @@ You can also refer our related works on dehazing:
 
 and
 
-2."JSTASR: Joint Size and Transparency-AwareSnow Removal Algorithm Based on ModifiedPartial Convolution and Veiling Effect Removal" which has been published in **ECCV 2020**.
+2."JSTASR: Joint Size and Transparency-AwareSnow Removal Algorithm Based on ModifiedPartial Convolution and Veiling Effect Removal" which has been published in **ECCV 2020**.  
 [[Paper Download]]()
 [[Code Download]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)  
 
