@@ -42,7 +42,7 @@ Run the test.py to generate recovered results
 ```
 $ python test.py
 ```
-The pretrained model can be downloaded from: https://drive.google.com/drive/folders/12cKqlfT7ckxwgB-xBdU5TF7Cc5-hssOg?usp=sharing
+The pretrained model can be downloaded from: <https://drive.google.com/drive/folders/12cKqlfT7ckxwgB-xBdU5TF7Cc5-hssOg?usp=sharing>
 
 
 # Citations
