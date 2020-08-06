@@ -5,7 +5,6 @@ Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 11681-11689
 
 
-<br>
 You can also refer our related works on dehazing:
 
 1."PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal" which has been published in **TIP 2020**.
