@@ -51,6 +51,8 @@ The pretrained model can be downloaded from: https://drive.google.com/drive/fold
 # Citations
 Please cite this paper in your publications if it helps your research:    
 
+Bibtex:
+```
 @inproceedings{chen2019pms,
   title={PMS-Net: Robust Haze Removal Based on Patch Map for Single Images},
   author={Chen, Wei-Ting and Ding, Jian-Jiun and Kuo, Sy-Yen},
@@ -58,6 +60,6 @@ Please cite this paper in your publications if it helps your research:
   pages={11681--11689},
   year={2019}
 }
-
+```
 Thanks Cheng-Che Tsai for rewriting this version of code!
 
