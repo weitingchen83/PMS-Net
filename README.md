@@ -3,7 +3,7 @@
 **Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo**
 
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 11681-11689  
-[Paper]<https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html/ "link">  
+[Paper] <https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html/>  
 Code: https://github.com/weitingchen83/PMS-Net  
 ![image](pmsnet.png)
 You can also refer our related works on dehazing:
