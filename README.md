@@ -10,7 +10,8 @@ The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp.
 You can also refer our related works on dehazing:
 
 <br>
-1."PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal" which has been published in **TIP 2020**.
+
+1."PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal" which has been published in **TIP 2020**.  
 [[Paper Download]](https://ieeexplore.ieee.org/document/9094006)
 [[Code Download]](https://github.com/weitingchen83/Dehazing-PMHLD-Patch-Map-Based-Hybrid-Learning-DehazeNet-for-Single-Image-Haze-Removal-TIP-2020)  
 
