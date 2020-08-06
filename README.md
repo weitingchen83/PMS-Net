@@ -5,10 +5,6 @@ Wei-Ting Chen, Jian-Jiun Ding, Sy-Yen Kuo
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 11681-11689
 
 
-# Abstract
-In this paper, we proposed a novel haze removal algorithm based on a new feature called the patch map. Conventional patch-based haze removal algorithms (e.g. the Dark Channel prior) usually performs dehazing with a fixed patch size. However, it may produce several problems in recovered results such as oversaturation and color distortion. Therefore, in this paper, we designed an adaptive and automatic patch size selection model called the Patch Map Selection Network (PMS-Net) to select the patch size corresponding to each pixel. This network is designed based on the convolutional neural network (CNN), which can generate the patch map from the image to image. Experimental results on both synthesized and real-world hazy images show that, with the combination of the proposed PMS-Net, the performance in haze removal is much better than that of other state-of-the-art algorithms and we can address the problems caused by the fixed patch size.
-proposed algorithm performs favorably against the stateof-the-art algorithms.
-
 <br>
 You can also refer our related works on dehazing:
 
@@ -28,6 +24,11 @@ Paper:
 
 Github: https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020
 
+
+
+# Abstract
+In this paper, we proposed a novel haze removal algorithm based on a new feature called the patch map. Conventional patch-based haze removal algorithms (e.g. the Dark Channel prior) usually performs dehazing with a fixed patch size. However, it may produce several problems in recovered results such as oversaturation and color distortion. Therefore, in this paper, we designed an adaptive and automatic patch size selection model called the Patch Map Selection Network (PMS-Net) to select the patch size corresponding to each pixel. This network is designed based on the convolutional neural network (CNN), which can generate the patch map from the image to image. Experimental results on both synthesized and real-world hazy images show that, with the combination of the proposed PMS-Net, the performance in haze removal is much better than that of other state-of-the-art algorithms and we can address the problems caused by the fixed patch size.
+proposed algorithm performs favorably against the stateof-the-art algorithms.
 
 # Setup and environment
 
